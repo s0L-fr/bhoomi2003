@@ -22,6 +22,7 @@ Let's connect and decode the patterns of the economy together! 💡🤝
 [![Outlook 2024 Badge](https://img.shields.io/badge/-bhoomi-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:bhoomikaangira8@gmail.com)](mailto:bhoomikaangira8@gmail.com)
 
 # 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s0L-fr&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Bhoomi's Github Stats](https://github-readme-stats.vercel.app/api?username=s0L-fr&hide=contribs,issues&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s0L-fr&layout=compact&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
