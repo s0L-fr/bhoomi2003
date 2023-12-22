@@ -19,7 +19,7 @@ Let's connect and decode the patterns of the economy together! 💡🤝
 
 [![Linkedin Badge](https://img.shields.io/badge/-@bonniepeng-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bonniepeng/)](https://www.linkedin.com/in/bonniepeng/)
 [![Website Badge](https://img.shields.io/badge/-jñāna.com-purple?style=flat&logo=Google-Chrome&logoColor=white&link=https://jñāna.com)](https://jñāna.com)
-[![Outlook Badge](https://img.shields.io/badge/-bonnie.peng-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:bhoomikaangira8@gmail.com)](mailto:bhoomikaangira8@gmail.com)
+[![Outlook 2024 Badge](https://img.shields.io/badge/-bhoomi.-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:bhoomikaangira8@gmail.com)](mailto:bhoomikaangira8@gmail.com)
 
 # 
 
