@@ -18,7 +18,7 @@ Let's connect and decode the patterns of the economy together! 💡🤝
 - 🌐 Learn more about me at **[jñāna.com](https://jñāna.com/)**
 
 [![Linkedin Badge](https://img.shields.io/badge/-@bonniepeng-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bonniepeng/)](https://www.linkedin.com/in/bonniepeng/)
-[![Website Badge](https://img.shields.io/badge/-jñāna.com-purple?style=flat&logo=Google-Chrome&logoColor=white&link=https://bonniepeng.com)](https://bonniepeng.com)
+[![Website Badge](https://img.shields.io/badge/-jñāna.com-purple?style=flat&logo=Google-Chrome&logoColor=white&link=https://jñāna.com)](https://jñāna.com)
 [![Outlook Badge](https://img.shields.io/badge/-bonnie.peng-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:bonnie.peng@uwaterloo.ca)](mailto:bonnie.peng@uwaterloo.ca)
 
 # 
@@ -28,7 +28,7 @@ Let's connect and decode the patterns of the economy together! 💡🤝
 
 
 <!--
-**bonniepeng2002/bonniepeng2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bhoomi2003/bhoomi2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
