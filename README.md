@@ -21,12 +21,11 @@ Let's connect and decode the patterns of the economy together! 💡🤝
 [![Website Badge](https://img.shields.io/badge/-jñāna.com-purple?style=flat&logo=Google-Chrome&logoColor=white&link=https://jñāna.com)](https://jñāna.com)
 [![Outlook 2024 Badge](https://img.shields.io/badge/-bhoomi-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:bhoomikaangira8@gmail.com)](mailto:bhoomikaangira8@gmail.com)
 
-# 
+<!--# 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s0L-fr&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
-<!--
 **bhoomi2003/bhoomi2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
