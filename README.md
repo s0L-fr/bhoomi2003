@@ -6,15 +6,15 @@ Let's connect and decode the patterns of the economy together! 💡🤝
 
 ![draw](https://media.giphy.com/media/DHqth0hVQoIzS/giphy.gif)
 
-## Stack
+<!--## Stack
 **Statistical Software:** R<br>
 **Data Analysis:** Excel, Python<br>
 **Data Visualization:** ggplot2, Matplotlib<br>
 **IDE:** Pycharm<br>
-**Econometrics Tools:** EViews <br>
+**Econometrics Tools:** EViews <br>-->
 
 ## Learn More
-- ⚡ Fun fact: I'm absolutely fascinated by languages and learning...!🌍📚
+- ⚡ I'm absolutely fascinated by languages and learning...!🌍📚
 - 🌐 Learn more about me at **[jñāna.com](https://jñāna.com/)**
 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-@-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/)-->
